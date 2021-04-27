@@ -15,6 +15,8 @@
             Le terminal, vous trouverez des informations ici des informations utiles.
         </li>
     </ol>
+        <P>Pour installer Visual Studio Code vous pouvez suivre cette vidéo :</P>
+        <p><a href="https://grafikart.fr/tutoriels/windows-installation-vscode-1021" target="_blank">Installation de VSC</a></p>
     <p>
         Pour exécuter les pages développées il faut se rendre dans le dossiers contenant votre code source et ouvrir les pages avec votre navigateur.
     </p>
