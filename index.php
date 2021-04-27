@@ -64,7 +64,7 @@
             Dans une page web beaucoup d’éléments servent à <strong>structurer</strong> la page et d’autres permettent d’<strong>interagir </strong>
             avec les utilisateurs (liens hypertextes, zones de texte, boutons…)
         </p>
-        <img src="/images/retour.png" alt="retour">    <a href='#menu'>menu</a>
+        <img src="images/retour.png" alt="retour">    <a href='#menu'>menu</a>
     </div>
     <br>
     <div class="border border-success" id='envdev'>
@@ -77,9 +77,9 @@
             sur son navigateur la page web se modifier au fur et à mesure du codage. Il permet également de créer les feuilles de styles (CSS) et de coder en JavaScript.
         </p>
         <p>
-            Vous trouverez les informations pour récuperer Visual Studio code dans la page <a href='download.php'>téléchargement</a> et pour l'utilisation dans la page de <a href='tutorielVSC'>prise en main de VSC</a>.
+            Vous trouverez les informations pour récuperer Visual Studio code dans la page <a href='download.php'>téléchargement</a> et pour l'utilisation dans la page de <a href='environnementdev.php'>prise en main de VSC</a>.
         </p>
-        <img src="/images/retour.png" alt="retour">    <a href='#menu'>menu</a>
+        <img src="images/retour.png" alt="retour">    <a href='#menu'>menu</a>
     </div>
     <br>
     <div class="border border-success" id='create'>
@@ -136,7 +136,7 @@
                     <img src="images/attention.png" alt="attention"> 
                     Ceci est un exemple de page web minimale dans la balise « head » il existe d’autres options possibles.
                 </p>
-                <img src="/images/retour.png" alt="retour">    <a href='#menu'>menu</a>
+                <img src="images/retour.png" alt="retour">    <a href='#menu'>menu</a>
                 <!------------------------------------------------------------------------------------------------------------------------>
                 <h6 id='balises' class='titre'>3.2 - Quelques balises</h6>
                 <!------------------------------------------------------------------------------------------------------------------------>
@@ -148,12 +148,12 @@
                 <div>
                     <iframe class="interactive tabbed-standard" width="100%" height="250" src="https://interactive-examples.mdn.mozilla.net/pages/tabbed/p.html" title="MDN Web Docs Interactive Example" loading="lazy"></iframe>
                 </div>
-                <img src="/images/retour.png" alt="retour">    <a href='#menu'>menu</a>
+                <img src="images/retour.png" alt="retour">    <a href='#menu'>menu</a>
                 <!------------------------------------------------------------------------------------------------------------------------>
                 <h6 id='titres' class='titre'>3.2.2 - Les titres</h6>
                 <p>Les éléments <code>&lt;h1&gt;</code> à <code>&lt;h6&gt;</code> représentent six niveaux de titres dans un document, <code>&lt;h1&gt;</code> est le plus important et <code>&lt;h6&gt;</code> est le moins important. Un élément de titre décrit brièvement le sujet de la section qu'il introduit.</p>
                 <div><iframe class="interactive tabbed-standard" width="100%" height="250" src="https://interactive-examples.mdn.mozilla.net/pages/tabbed/h1-h6.html" title="MDN Web Docs Interactive Example" loading="lazy"></iframe></div>
-                <img src="/images/retour.png" alt="retour">    <a href='#menu'>menu</a>
+                <img src="images/retour.png" alt="retour">    <a href='#menu'>menu</a>
                 <!------------------------------------------------------------------------------------------------------------------------>
                 <h6 id='listes' class='titre'>3.2.3 - Les listes</h6>
                 <p>Les listes permettent de structurer du texte et d’ordonner des informations.</p>
@@ -174,7 +174,7 @@
                 <div>
                 <iframe class="interactive tabbed-shorter" width="100%" height="250" src="https://interactive-examples.mdn.mozilla.net/pages/tabbed/ol.html" title="MDN Web Docs Interactive Example" loading="lazy"></iframe>
                 </div>
-                <img src="/images/retour.png" alt="retour">    <a href='#menu'>menu</a>
+                <img src="images/retour.png" alt="retour">    <a href='#menu'>menu</a>
                 <!------------------------------------------------------------------------------------------------------------------------>
                 <h6 id='liens' class='titre'>3.2.4 - Les liens</h6>
                 <p>L'élément <code>&lt;a&gt;</code> (pour ancre ou <em>anchor</em> en anglais) définit un hyperlien vers un autre endroit de la même page ou vers une autre page sur le Web.</p>
@@ -182,7 +182,7 @@
                 Pour les créer nous utilisons la balise <code>&lt;a&gt;</code> et la balise <code>&lt;href&gt;</code> pour indiquer la cible de la balise.
                 </p>
                 <div><iframe class="interactive" width="100%" height="250" src="https://interactive-examples.mdn.mozilla.net/pages/tabbed/a.html" title="MDN Web Docs Interactive Example" loading="lazy"></iframe></div>
-                <img src="/images/retour.png" alt="retour">    <a href='#menu'>menu</a>
+                <img src="images/retour.png" alt="retour">    <a href='#menu'>menu</a>
                 <!------------------------------------------------------------------------------------------------------------------------>
                 <h6 id='images' class='titre'>3.2.5 - Les images</h6>
                 <p>L'élément HTML <code>&lt;img&gt;</code> permet de représenter une image dans un document.</p>
@@ -214,12 +214,12 @@
                     	<code>Height</code> : indique la hauteur de l’image.
                     </li>
                 </ul>
-                <img src="/images/retour.png" alt="retour">    <a href='#menu'>menu</a>
+                <img src="images/retour.png" alt="retour">    <a href='#menu'>menu</a>
                 <!------------------------------------------------------------------------------------------------------------------------>
                 <h6 id='tables' class='titre'>3.2.6 - Les tableaux</h6>
                 <p>L'élément HTML <code>&lt;table&gt;</code> permet de représenter un tableau de données, c'est-à-dire des informations exprimées sur un tableau en deux dimensions.</p>
                 <div><iframe class="interactive tabbed-standard" width="100%" height="250" src="https://interactive-examples.mdn.mozilla.net/pages/tabbed/table.html" title="MDN Web Docs Interactive Example" loading="lazy"></iframe></div>
-                <img src="/images/retour.png" alt="retour">    <a href='#menu'>menu</a>
+                <img src="images/retour.png" alt="retour">    <a href='#menu'>menu</a>
         </div>
 
     </div>
