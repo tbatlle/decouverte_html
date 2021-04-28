@@ -54,7 +54,7 @@
 
         <div class="info">
             <u>Exemple d'un paragraphe</u><br>
-            <strong>&lt;p&gt;Mon titre&lt;p&gt;</strong>
+            <strong>&lt;p&gt;Mon titre&lt;/p&gt;</strong>
         </div>
         <p>
             La composition d’une page HTML sépare le contenu et le style (CSS). Pour rendre une page HTML plus interactive, 

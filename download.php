@@ -7,7 +7,7 @@
     <h2 class="titre">Liens et téléchargements</h2>
     <div>
         Le cours au format PDF :
-        <a href="/docs/DecouverteHTML.pdf" target="_blank">Découverte du HTML</a>
+        <a href="docs/DecouverteHTML.pdf" target="_blank">Découverte du HTML</a>
     </div>
     <div>
         L'environnement de développement : <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>
