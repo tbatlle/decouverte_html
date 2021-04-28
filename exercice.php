@@ -1,5 +1,5 @@
 <?php 
-    $title = 'Environnement de développement';
+    $title = 'Exercice';
     require 'include/header.php'; 
 ?>
 
