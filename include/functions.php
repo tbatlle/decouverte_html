@@ -25,6 +25,7 @@ function nav_menu(string $linkClass = ''):string {
         nav_item('environnementdev.php','Environnement de développement', $linkClass).
         nav_item('exercice.php','Exercice', $linkClass).
         nav_item('download.php','Liens / Téléchargement', $linkClass).
-        nav_item('commentaire.php','Commentaires', $linkClass);
+        nav_item('commentaire.php','Commentaires', $linkClass).
+        nav_item('nasraspberry.php','Serveur NAS', $linkClass);
 }
 
